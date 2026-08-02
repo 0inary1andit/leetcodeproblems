@@ -12,6 +12,7 @@ data structures and algorithm.
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
+| [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,11 +54,13 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
@@ -67,6 +70,7 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
