@@ -53,12 +53,14 @@ data structures and algorithm.
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
@@ -74,5 +76,6 @@ data structures and algorithm.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
