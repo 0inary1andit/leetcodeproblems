@@ -8,6 +8,7 @@ data structures and algorithm.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
@@ -31,6 +32,7 @@ data structures and algorithm.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [3731-find-missing-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -81,4 +83,8 @@ data structures and algorithm.
 | ------- |
 | [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
