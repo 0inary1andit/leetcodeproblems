@@ -6,16 +6,19 @@
 
 class Solution(object):
     def hasCycle(self, head):
-        visited={}
-        curr=head
-        while curr:
-            if curr not in visited:
-                visited[curr]=1
-                curr=curr.next
-            else:
-                return True 
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        fast=head
+        slow=head
 
-        
-        return False
-       
+        while fast and fast.next:
+            slow=slow.next
+            fast=fast.next.next
+            if(slow==fast):
+                return True
+
+
+        return False        
         
