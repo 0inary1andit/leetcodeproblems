@@ -59,6 +59,7 @@ data structures and algorithm.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
@@ -74,6 +75,7 @@ data structures and algorithm.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -94,6 +96,7 @@ data structures and algorithm.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 ## Floyd's Cycle Finding Algorithm
