@@ -62,6 +62,7 @@ data structures and algorithm.
 | [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/0inary1andit/leetcodeproblems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
@@ -108,4 +109,12 @@ data structures and algorithm.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/0inary1andit/leetcodeproblems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/0inary1andit/leetcodeproblems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
