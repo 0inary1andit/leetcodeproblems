@@ -117,4 +117,8 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/0inary1andit/leetcodeproblems/tree/master/0258-add-digits) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/0inary1andit/leetcodeproblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
