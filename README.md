@@ -53,6 +53,7 @@ data structures and algorithm.
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0inary1andit/leetcodeproblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Divide and Conquer
 |  |
@@ -97,6 +98,7 @@ data structures and algorithm.
 | [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
@@ -130,4 +132,20 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
