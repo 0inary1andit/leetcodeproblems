@@ -19,6 +19,7 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0inary1andit/leetcodeproblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -95,12 +96,14 @@ data structures and algorithm.
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
