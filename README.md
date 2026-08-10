@@ -8,6 +8,7 @@ data structures and algorithm.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
@@ -93,6 +94,7 @@ data structures and algorithm.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
@@ -124,4 +126,8 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/0inary1andit/leetcodeproblems/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
