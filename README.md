@@ -21,6 +21,7 @@ data structures and algorithm.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0inary1andit/leetcodeproblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
@@ -65,6 +66,7 @@ data structures and algorithm.
 | [0002-add-two-numbers](https://github.com/0inary1andit/leetcodeproblems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/0inary1andit/leetcodeproblems/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/0inary1andit/leetcodeproblems/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
@@ -101,6 +103,7 @@ data structures and algorithm.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -112,6 +115,7 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
 ## Enumeration
 |  |
 | ------- |
