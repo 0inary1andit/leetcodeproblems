@@ -13,6 +13,7 @@ data structures and algorithm.
 | [0209-minimum-size-subarray-sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/0inary1andit/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
@@ -26,6 +27,7 @@ data structures and algorithm.
 | [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0inary1andit/leetcodeproblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/0inary1andit/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/0inary1andit/leetcodeproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -164,4 +166,12 @@ data structures and algorithm.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/0inary1andit/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
