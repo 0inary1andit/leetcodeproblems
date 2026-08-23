@@ -5,28 +5,25 @@ class Solution(object):
         :rtype: bool
         """
         n=len(num)
-        sum_left=0
-        sum_right=0
-        count_left=0
-        count_right=0
+        diff_sum=0
+        diff_count=0
 
         for i in range(n):
             if i<n//2:
                 if num[i]=="?":
-                    count_left+=1
+                    diff_count+=1
                 else:
-                    sum_left+=int(num[i])
+                    diff_sum+=int(num[i])
             else:
                 if num[i]=="?":
-                    count_right+=1
+                    diff_count-=1
                 else:
-                    sum_right+=int(num[i])
-        
-        if (count_left+count_right)%2!=0:
+                    diff_sum-=int(num[i])
+
+
+        if diff_count%2!=0:
             return True
-
-        if (sum_left-sum_right)+(count_left-count_right)//2 *9==0:
+        if diff_sum +diff_count//2 *9 ==0:
             return False
-
-        return True
-
+        return True                                   
+        
