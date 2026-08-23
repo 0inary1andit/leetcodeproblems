@@ -63,6 +63,7 @@ data structures and algorithm.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/0inary1andit/leetcodeproblems/tree/master/0091-decode-ways) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/0inary1andit/leetcodeproblems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1927-sum-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/1927-sum-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,6 +79,7 @@ data structures and algorithm.
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/1137-n-th-tribonacci-number) |
+| [1927-sum-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/0inary1andit/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -98,6 +100,7 @@ data structures and algorithm.
 | ------- |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/1927-sum-game) |
 ## Memoization
 |  |
 | ------- |
@@ -146,6 +149,7 @@ data structures and algorithm.
 | ------- |
 | [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [1386-cinema-seat-allocation](https://github.com/0inary1andit/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/1927-sum-game) |
 ## String Matching
 |  |
 | ------- |
