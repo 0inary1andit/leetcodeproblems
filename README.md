@@ -10,6 +10,7 @@ data structures and algorithm.
 | ------- |
 | [0011-container-with-most-water](https://github.com/0inary1andit/leetcodeproblems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/0inary1andit/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/0inary1andit/leetcodeproblems/tree/master/0486-predict-the-winner) |
@@ -43,6 +44,7 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [3731-find-missing-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -113,6 +115,7 @@ data structures and algorithm.
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/0inary1andit/leetcodeproblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/0inary1andit/leetcodeproblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/0inary1andit/leetcodeproblems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0inary1andit/leetcodeproblems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/0inary1andit/leetcodeproblems/tree/master/0202-happy-number) |
