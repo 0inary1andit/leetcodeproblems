@@ -21,6 +21,7 @@ data structures and algorithm.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/0inary1andit/leetcodeproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ data structures and algorithm.
 | [1927-sum-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/0inary1andit/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/0inary1andit/leetcodeproblems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
