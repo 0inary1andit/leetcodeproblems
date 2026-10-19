@@ -18,6 +18,7 @@ data structures and algorithm.
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
 | [0877-stone-game](https://github.com/0inary1andit/leetcodeproblems/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/0inary1andit/leetcodeproblems/tree/master/1386-cinema-seat-allocation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/0inary1andit/leetcodeproblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@ data structures and algorithm.
 | [0015-3sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/0inary1andit/leetcodeproblems/tree/master/0594-longest-harmonious-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3731-find-missing-elements](https://github.com/0inary1andit/leetcodeproblems/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -58,6 +60,7 @@ data structures and algorithm.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/0inary1andit/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/0inary1andit/leetcodeproblems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
